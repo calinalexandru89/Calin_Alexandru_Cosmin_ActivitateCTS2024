@@ -3,6 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calin_Alexandru_Cosmin_GR1115_ActivitateCTS2024.iml" filepath="$PROJECT_DIR$/Calin_Alexandru_Cosmin_GR1115_ActivitateCTS2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_E_Sportiv_Problema010_Flyweight/_E_Sportiv_Problema010_Flyweight.iml" filepath="$PROJECT_DIR$/_E_Sportiv_Problema010_Flyweight/_E_Sportiv_Problema010_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_E_Sportiv_Problema01_Factory/_E_Sportiv_Problema01_Factory.iml" filepath="$PROJECT_DIR$/_E_Sportiv_Problema01_Factory/_E_Sportiv_Problema01_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_E_Sportiv_Problema02_Abstract_Factory/_E_Sportiv_Problema02_Abstract_Factory.iml" filepath="$PROJECT_DIR$/_E_Sportiv_Problema02_Abstract_Factory/_E_Sportiv_Problema02_Abstract_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_E_Sportiv_Problema03_Builder/_E_Sportiv_Problema03_Builder.iml" filepath="$PROJECT_DIR$/_E_Sportiv_Problema03_Builder/_E_Sportiv_Problema03_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_E_Sportiv_Problema04_Prototype/_E_Sportiv_Problema04_Prototype.iml" filepath="$PROJECT_DIR$/_E_Sportiv_Problema04_Prototype/_E_Sportiv_Problema04_Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_E_Sportiv_Problema05_Adapter/_E_Sportiv_Problema05_Adapter.iml" filepath="$PROJECT_DIR$/_E_Sportiv_Problema05_Adapter/_E_Sportiv_Problema05_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_E_Sportiv_Problema06_Facade/_E_Sportiv_Problema06_Facade.iml" filepath="$PROJECT_DIR$/_E_Sportiv_Problema06_Facade/_E_Sportiv_Problema06_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_E_Sportiv_Problema07_Decorator/_E_Sportiv_Problema07_Decorator.iml" filepath="$PROJECT_DIR$/_E_Sportiv_Problema07_Decorator/_E_Sportiv_Problema07_Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_E_Sportiv_Problema08_Proxy/_E_Sportiv_Problema08_Proxy.iml" filepath="$PROJECT_DIR$/_E_Sportiv_Problema08_Proxy/_E_Sportiv_Problema08_Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_E_Sportiv_Problema09_Composite/_E_Sportiv_Problema09_Composite.iml" filepath="$PROJECT_DIR$/_E_Sportiv_Problema09_Composite/_E_Sportiv_Problema09_Composite.iml" />
     </modules>
   </component>
 </project>
